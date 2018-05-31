@@ -2,12 +2,25 @@
 
 Repository ini akan menuntun kamu untuk mengenal keluarga lebih dekat baik yang sudah kamu ketahui maupun yang belum kamu ketahui.
 
-### Siami
-
-Siami adalah istri tunggal dari Bpk. Marsim, di pernikahanya mereka dikaruniai beberapa anak yaitu
-
-1. Sokhib Marsim
-2. Siami Marsim
-3. Susiono Marsim
-
-akan di update..
+### Keluarga Marsim
+<pre>
+|- Marsim & Semi
+|`- Sokib Marsim
+|   |- Arief
+|`- Siami Marsim
+|   |- Nanang Zulianto
+|   `-- Rara Faticha Nur Safitri
+|    -- Gustaf Rakafaro
+|   |- Dwi Sasmito
+|   `-- Enggal Mei Saputro
+|    -- Saputri
+|   |- Naning Zulistutik
+|   `-- Rafa Akbar & Rofa Hamdan
+|    -- Nces
+|   |- Bagus Ahmad K
+|   `-- N/A
+|    -- N/A
+|`- Susiono Marsim
+|   |- Olivia
+     `- N/A
+</pre>
