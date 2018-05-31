@@ -1,6 +1,6 @@
 ## Siami Marsim
 
-Menikah pada dengan Sujarwan.
+Menikah pada dengan <a href="Orang/Sujarwan">Sujarwan</a>.
 
 ### Keluarga Sujarwan
 <pre>
