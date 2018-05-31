@@ -5,9 +5,9 @@ Repository ini akan menuntun kamu untuk mengenal keluarga lebih dekat baik yang 
 ### Keluarga Marsim
 <pre>
 |- Marsim & Semi
-|`- <a href="sokhib">Sokhib Marsim</a>
+|`- <a href="Sokhib">Sokhib Marsim</a>
 |   |- Arief
-|`- <a href="siami/">Siami Marsim</a>
+|`- <a href="Siami/">Siami Marsim</a>
 |   |- Nanang Zulianto
 |   `-- Rara Faticha Nur Safitri
 |    -- Gustaf Rakafaro
