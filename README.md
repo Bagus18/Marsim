@@ -5,7 +5,7 @@ Repository ini akan menuntun kamu untuk mengenal keluarga lebih dekat baik yang 
 ### Keluarga Marsim
 <pre>
 |- Marsim & Semi
-|`- Sokib Marsim
+|`- <a href="sokhib">Sokhib Marsim</a>
 |   |- Arief
 |`- <a href="siami/">Siami Marsim</a>
 |   |- Nanang Zulianto
@@ -20,7 +20,7 @@ Repository ini akan menuntun kamu untuk mengenal keluarga lebih dekat baik yang 
 |   |- Bagus Ahmad K
 |   `-- N/A
 |    -- N/A
-|`- Susiono Marsim
+|`- <a href="Susiono">Susiono Marsim</a>
 |   |- Olivia
      `- N/A
 </pre>
