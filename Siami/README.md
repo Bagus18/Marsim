@@ -15,6 +15,6 @@ Menikah pada dengan <a href="../Orang/Sujarwan">Sujarwan</a>.
 |   |- Rafa Akbar & Rofa Hamdan
 |   |- Nces
 |`- <a href="Bagus">Bagus Ahmad Khusen</a>
-|   |- 
+|   |- Ahmad Yahya Syamsi
 |   |- 
 </pre>
